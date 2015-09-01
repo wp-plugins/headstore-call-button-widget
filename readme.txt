@@ -1,4 +1,4 @@
-=== Headstore Call Button Widget ===
+=== Some Deleted Widget ===
 Contributors: hs-ag
 Tags: none
 Requires at least: 3.0.1
@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-
+Some delete widget. 
 
 == Installation ==
 
